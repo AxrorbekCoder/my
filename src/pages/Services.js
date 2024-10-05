@@ -47,7 +47,7 @@ const Services =() => {
    </div>
    <div class="column">
      <div class="card">
-        <img src={gold} alt="" className='icon-pro'/>
+        <img src={gold} alt="gold" className='icon-pro'/>
        <div class="icon-wrapper">
          <FaComputer />
        </div>
@@ -59,7 +59,7 @@ const Services =() => {
    </div>
    <div class="column">
      <div class="card">
-     <img src={gold} alt="" className='icon-pro'/>
+     <img src={gold} alt="gold" className='icon-pro'/>
        <div class="icon-wrapper">
             <IoLogoWindows />
        </div>
@@ -71,7 +71,7 @@ const Services =() => {
    </div>
    <div class="column">
      <div class="card">
-     <img src={gold} alt="" className='icon-pro'/>
+     <img src={gold} alt="gold" className='icon-pro'/>
        <div class="icon-wrapper">
          <GiCctvCamera />
        </div>
