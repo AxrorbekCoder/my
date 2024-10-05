@@ -15,7 +15,6 @@ const Services =() => {
    <div class="column">
      <div class="card">
        <div class="icon-wrapper">
-         <i class="fas fa-hammer"></i>
        </div>
        <h3>Service Heading</h3>
        <p>
@@ -27,7 +26,6 @@ const Services =() => {
    <div class="column">
      <div class="card">
        <div class="icon-wrapper">
-         <i class="fas fa-brush"></i>
        </div>
        <h3>Service Heading</h3>
        <p>
