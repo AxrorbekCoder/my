@@ -2,7 +2,7 @@ import React from 'react';
 import './services.css'
 import { GiCctvCamera } from "react-icons/gi";
 import { IoLogoWindows } from "react-icons/io";
-import { FaComputer, FaWebAwesome } from "react-icons/fa6";
+import { FaComputer} from "react-icons/fa6";
 import { BsCodeSlash } from "react-icons/bs";
 import gold from "./imges/gold.png"
 const Services =() => {
